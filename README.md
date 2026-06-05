@@ -21,6 +21,12 @@ photo → AI analysis → care action → health log → progress statistics
 - `/stats` command with health progress chart
 - Safe `.env.example` configuration
 - PowerShell launch script for Windows
+  
+- ## Environmental and Social Value
+
+GreenBuddy supports responsible plant care by helping users detect plant problems earlier, reduce unnecessary plant loss, and build better care habits.
+
+While it is a small learning project, it connects AI with everyday environmental awareness: caring for living plants, reducing waste, and making practical plant knowledge more accessible through an open-source Telegram bot.
 
 ## Tech Stack
 
